@@ -1,0 +1,1 @@
+This is a trivial rails app to accompany a series of blog posts on using a Docker in development and deploying to AWS.
